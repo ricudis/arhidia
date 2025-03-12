@@ -1,1 +1,8 @@
 /target
+**/*.rs.bk
+Cargo.lock
+*.orig
+*~
+*.rej
+.DS_Store
+/target/
