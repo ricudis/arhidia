@@ -1,0 +1,9 @@
+[package]
+name = "arhidia"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.32", features = ["derive", "env"] }
+md-5 = "0.10.6"
+walkdir = "2.5.0"
